@@ -1,14 +1,19 @@
 let typeCard = 'Debit Card';
 
-let TypeCard = 'Credit Card';
-
-switch (typeCard){
+switch (typeCard) {
    case ('Debit Card'):
-       document.write('This is a Debit Card')
+       document.write('This is a Debit Card');
             break;
-    case ('Credit Card'):
-        document.write('this is a Credit Card')
-             break;
         default:
-            document.write('No Card')
+            document.write('No Card');
 };
+
+//let TypeCard = 'Credit Card';
+
+//switch (TypeCard) {
+    //case ('Credit Card'):
+        //document.write('This is a Credit Card');
+             //break;
+        //default:
+            //document.write('No Card');
+//}
