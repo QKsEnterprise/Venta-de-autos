@@ -1,4 +1,4 @@
-let Ferrari1 = 'modelo de auto: Ferrari 488 spider'
+let Ferrari1 = 'car model: Ferrari 488 spider'
 
 //console.log(Ferrari1);
 
